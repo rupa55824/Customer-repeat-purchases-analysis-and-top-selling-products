@@ -1,0 +1,2 @@
+# Customer-repeat-purchases-analysis-and-top-selling-products
+Analyzing customer repeat purchases helps business understand loyalty patterns and buying behaviour customers who return to buy again contribute to revenue consistent and indicate strong product satisfaction By tracking repeat purchases rates companies can identify which products encourage customers come back and may need improvement this analysis 
